@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-**I'm [Ali](https://github.com/Ali-Noghabi)！I'm software developer 👨‍💻**
+**I'm [Ali](https://github.com/Ali-Noghabi)！I'm software developer 👨‍💻 work in Datall Company**
 
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:a.noghabi2002@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aliabdollahian.noghabi/) 
