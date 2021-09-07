@@ -6,8 +6,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/aliabdollahian.noghabi/)](https://space.bilibili.com/7708412)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/Ali-Noghabi)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ahforoughi&show_icons=true&hide_border=true">
-
 ## 🧐 About
 
 - 📫 How to reach me: a.noghabi2002@gmail.com
