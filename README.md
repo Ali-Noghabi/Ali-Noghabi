@@ -9,7 +9,7 @@
 [![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ali.noghabi)
 	
 ## 🧐 About
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ali-Noghabi&show_icons=true&hide_border=true">
+- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ali-Noghabi&show_icons=true&hide_border=true">
 - 📫 How to reach me: a.noghabi2002@gmail.com
 - 🌱 Languages and Tools:<br /> 
  **👨‍💻** (&nbsp;C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git&nbsp;)<br />    
