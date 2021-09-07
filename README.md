@@ -11,7 +11,8 @@
 ## 🧐 About
 - 📫 How to reach me: a.noghabi2002@gmail.com
 - 🌱 Languages and Tools:<br /> 
- **👨‍💻** (&nbsp;C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git&nbsp;)<br />     
+ **👨‍💻** (&nbsp;C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git&nbsp;)<br />    
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ali-Noghabi&show_icons=true&hide_border=true">
     <div>
         <code><img height="20" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
         <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
@@ -28,5 +29,5 @@
 	<code><img height="20" src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"></code>
 	<code><img height="20" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
     </div>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ali-Noghabi&show_icons=true&hide_border=true">
+    
 
