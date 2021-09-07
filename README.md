@@ -3,7 +3,7 @@
 **I'm [Ali](https://github.com/Ali-Noghabi)！I'm software developer 👨‍💻**
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:a.noghabi2002@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/aliabdollahian.noghabi/)](https://space.bilibili.com/7708412)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/aliabdollahian.noghabi/)]
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/Ali-Noghabi)
 [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/Ali_Abdollahian_Noghabi) 
 
