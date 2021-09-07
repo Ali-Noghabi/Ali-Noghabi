@@ -7,7 +7,8 @@
 [![Chat on Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ali_Abdollahian_Noghabi) 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Noghabi)
 [![Gitlab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/ali.noghabi)
-	
+[![Skype Badge](https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/gLtpihANf3CC)
+
 ## 🧐 About
 - 📫 How to reach me: a.noghabi2002@gmail.com<br />
 - 🌱 Languages and Tools:<br />    
