@@ -10,8 +10,7 @@
 	
 ## 🧐 About
 - 📫 How to reach me: a.noghabi2002@gmail.com<br />
-- 🌱 Languages and Tools:<br /> 
- **👨‍💻** (&nbsp;C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git&nbsp;)<br />    
+- 🌱 Languages and Tools:<br />    
     <div>
 	<br />
         <code><img height="20" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
