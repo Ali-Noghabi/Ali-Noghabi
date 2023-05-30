@@ -17,8 +17,8 @@
 	<br />
         <img height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></code>
 	<img height="30" src="https://img.shields.io/badge/Python-f2df30?style=for-the-badge&logo=python&logoColor=blue"></code>
-        <img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 	<img height="30" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"></code>
+        <img height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 	<img height="30" src="	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
         <img height="30" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
 	<br />
