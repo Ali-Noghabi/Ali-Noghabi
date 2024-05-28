@@ -2,7 +2,7 @@
 
 **I'm [Ali](https://ali-noghabi.github.io)！I'm Mid-level software developer at [Datall](https://datall.ai) Company**
 
-**[Professional CV](https://github.com/Ali-Noghabi/Ali-Noghabi/blob/main/Ali_Abdollahian_Professional_CV.pdf)**
+**[Professional CV](https://github.com/Ali-Noghabi/Ali-Noghabi.github.io/blob/main/Ali_Abdollahian_Noghabi_CV.pdf)**
 <!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aliabdollahian.noghabi/) -->
 [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:a.noghabi2002@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-noghabi/)
@@ -51,7 +51,6 @@
 	<img height="30" src="https://img.shields.io/badge/LaTeX-black?style=flat-square&logo=latex&logoColor=white"></code>
 	</div>
 	<br />
-## 🏆 Github
+## Github
  &nbsp;
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ali-Noghabi&show_icons=true&hide_border=true">
-
